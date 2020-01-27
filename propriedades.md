@@ -2,7 +2,7 @@
 
 # Propriedades do calendário
 
-- domenssão: ```900px``` X ```899px```
+- domensão: ```900px``` X ```899px```
 
 - font-ano: ```Cubicoola Bold``` ```50px```
 
