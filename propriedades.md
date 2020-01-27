@@ -26,3 +26,7 @@
 |```INÍCIOS``` | ```#bad32d;``` | ```rgb(26 135 204)``` |
 |```FIM``` | ```#f05f4e;``` | ```rgb(240 95 78)``` |
 |```ENCONTROS``` | ```#f7c129;``` | ```rgb(247 193 41)``` |
+
+---
+
+[<- Kurumi](README.md#tarefas-para-a-kurumi)
