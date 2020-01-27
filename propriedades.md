@@ -1,4 +1,4 @@
-[<- Kurumi](kurumi#tarefas-para-a-kurumi)
+[<- Kurumi](README.md#tarefas-para-a-kurumi)
 
 # Propriedades do calendário
 
