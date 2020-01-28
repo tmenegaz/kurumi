@@ -12,7 +12,8 @@
 | 26/01/2020 | Cards do Aluguel de espaço  | Aguardando as imagens dos bichos | Aberto |
 | 26/01/2020 | Cards da flik feira literária  | Aguardando as imagens dos bichos | Aberto |
 | 26/01/2020 | Cards pra Imenjá  | Aguardando as imagens dos bichos | Aberto |
-| 26/01/2020 | Cards aluguel de espaço  | Aguardando as imagens dos bichos | Aberto |
+| 28/01/2020 | acesso ao wordpress-admin | encaminhado por Harmonia e Mônica | ok |
+| 28/01/2020 | acesso ao servido | encaminhado por Harmonia e Mônica. Tiago tem que configurar | aberto |
 
 ## Código fonte - Downloads
 
