@@ -2,7 +2,7 @@
 
 # Propriedades do calendário
 
-- domensão: ```900px``` X ```899px```
+- domensão: ```900px``` X ```900px```
 
 - font-ano: ```Cubicoola Bold``` ```50px```
 
@@ -11,8 +11,6 @@
 - font-legenda: ```Sofia Pro Light``` ```bold``` ```18px```
 
 - background: ```#f7f4eb;``` ```rgb(247 244 235)```
-
-- background-footer: ```#ffffff;``` ```rgb(255 255 255)```
 
 ### font-color:
 
@@ -25,6 +23,8 @@
 |```INÍCIO``` | ```#bad32d``` | ```rgb(26 135 204)``` | ![#bad32d](images/inicio.jpg "color: #bad32d;") |
 |```FIM``` | ```#f05f4e``` | ```rgb(240 95 78)``` | ![#f05f4e](images/fim.jpg "color: #f05f4e;") |
 |```ENCONTRO``` | ```#f7c129``` | ```rgb(247 193 41)``` | ![#f7c129](images/encontro.jpg "color: #f7c129;") |
+|```background``` | ```#f7f4eb``` | ```rgb(247 244 235)``` | ![#f7f4eb](images/background.jpg "color: #f7f4eb;") |
+|```degrade``` | frente:```#f7f4eb```/ fundo:```#676767``` | ```rgb(247 244 235)```/```rgb(103 103 103)``` | ![degrade](images/degrade.jpg " linear-gradient(0deg, rgba(247,244,235,1) 0%, rgba(103,103,103,1) 100%); ") |
 
 ---
 
