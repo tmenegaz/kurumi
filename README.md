@@ -1,6 +1,6 @@
 # Tarefas para a Kurumi
 
-| **Abertura** | **Atividade** | **Acompanhamento** | **Status** | **Conclusão*** |
+| **Abertura** | **Atividade** | **Acompanhamento** | **Status** | **Conclusão** |
 |:-:|:-:|:-:|:-:|:-:|
 | 26/01/2020 | fazer [calendário de fevereiro](images/calendario-fev.jpeg)  | cópia e adequação a partir do modelo [modelo-calendário](images/modelo-calendario.jpeg) conforme a [programação](CALENDÁRIO-INTERNO-2020.docx)  | ok  | 27/01/2020 |
 | 27/01/2020 | fazer [calendário de março](images/calendario-mar.jpeg)  | cópia e adequação a partir do modelo [modelo-calendário](images/modelo-calendario.jpeg) conforme a [programação](CALENDÁRIO-INTERNO-2020.docx)  | ok  | 27/01/2020 |
