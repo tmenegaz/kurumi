@@ -14,7 +14,7 @@
 | 26/01/2020 | Cards pra Imenjá  | Aguardando as imagens dos bichos | Aberto |
 | 28/01/2020 | acesso ao wordpress-admin | encaminhado por Harmonia e Mônica | ok |
 | 28/01/2020 | acesso ao servido | encaminhado por Harmonia e Mônica. Tiago tem que configurar | aberto |
-| 29/01/2020 | Cards de boas-vindas | aguardando fotos e modelo | ok |
+| 29/01/2020 | Cards de boas-vindas: [c1](images/card-boas-vindas.jpg) [c2](images/card-boas-vindas-insta.jpg) | aguardando fotos e modelo | ok |
 
 ## Código fonte - Downloads
 
