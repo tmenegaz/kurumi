@@ -22,7 +22,6 @@
 |```SEMANA``` | ```#676767``` | ```rgb(103 103 103)``` | ![#676767](images/semana.jpg "color: #676767;") |
 |```MÊS``` | ```#ee6d29``` | ```rgb(238 109 41)``` | ![#ee6d29](images/mes.jpg "color: #ee6d29;") |
 |```FERIADO``` | ```#1a87cc``` | ```rgb(26 135 204)``` | ![#1a87cc](images/feriado.jpg "color: #1a87cc;") |
-|```FORMAÇÃO``` | ```#1a87cc``` | ```rgb(81 111 255)``` | ![#1a87cc](images/feriado.jpg "color: #1a87cc;") |
 |```INÍCIO``` | ```#bad32d``` | ```rgb(26 135 204)``` | ![#bad32d](images/inicio.jpg "color: #bad32d;") |
 |```FIM``` | ```#f05f4e``` | ```rgb(240 95 78)``` | ![#f05f4e](images/fim.jpg "color: #f05f4e;") |
 |```ENCONTRO``` | ```#f7c129``` | ```rgb(247 193 41)``` | ![#f7c129](images/encontro.jpg "color: #f7c129;") |
