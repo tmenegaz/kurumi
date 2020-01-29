@@ -10,8 +10,6 @@
 
 - font-legenda: ```Sofia Pro Light``` ```bold``` ```18px```
 
-- background: ```#f7f4eb;``` ```rgb(247 244 235)```
-
 ### font-color:
 
 |lugar| hexa | rgb | cor |
