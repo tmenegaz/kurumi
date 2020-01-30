@@ -4,7 +4,7 @@
 |:--------:|:---------:|:--------------:|:------:|:---------:|
 | 26/01/2020 | fazer [calendário de fevereiro](images/calendario-fev.jpeg)  | cópia e adequação a partir do modelo [modelo-calendário](images/modelo-calendario.jpeg) conforme a [programação](CALENDÁRIO-INTERNO-2020.docx)  | ok  | 27/01/2020 |
 | 27/01/2020 | fazer [calendário de março](images/calendario-mar.jpeg)  | cópia e adequação a partir do modelo [modelo-calendário](images/modelo-calendario.jpeg) conforme a [programação](CALENDÁRIO-INTERNO-2020.docx)  | ok  | 27/01/2020 |
-| 27/01/2020 | fazer card de contagem regressiva para o início da creche escola [cont-regr](images/cont-regr.jpg) |  cópia e adequação a partir de [fotos](images/pedido-1) e [textos](images/pedido-1/e-mail-1.pdf) | Aberto  | 30/01/2020 |
+| 27/01/2020 | fazer card de contagem regressiva para o início da creche escola [cont-regr](images/cont-regr.jpg); [cont-regr-2](images/cont-regr-2.jpg) |  cópia e adequação a partir de [fotos](images/pedido-1) e [textos](images/pedido-1/e-mail-1.pdf) | Aberto  | 30/01/2020 |
 | 27/01/2020 | Solicitação de imagens dos bichos  | Armonia solicitou e aguarda retorno | Aberto |
 | 26/01/2020 | Elaboração do card das matrículas | Aguardo o material de Monica | Aberto |  |
 | 26/01/2020 | Cards dos stores fixos  | Aguardando as imagens dos bichos conforme os prototipos: ![p1](images/1-icones150x125.jpg) ![p2](images/2-icones150x125.jpg) ![p3](images/3-icones150x125.jpg) ![p4](images/4-icones150x125.jpg) ![p5](images/5-icones150x125.jpg) ![p6](images/6-icones150x125.jpg) ![p7](images/7-icones150x125.jpg) ![p8](images/8-icones150x125.jpg) ![p9](images/9-icones150x125.jpg) | Aberto |  |
