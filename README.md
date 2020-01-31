@@ -10,11 +10,12 @@
 | 26/01/2020 | Cards dos stores fixos  | Aguardando as imagens dos bichos conforme os prototipos: ![p1](images/1-icones150x125.jpg) ![p2](images/2-icones150x125.jpg) ![p3](images/3-icones150x125.jpg) ![p4](images/4-icones150x125.jpg) ![p5](images/5-icones150x125.jpg) ![p6](images/6-icones150x125.jpg) ![p7](images/7-icones150x125.jpg) ![p8](images/8-icones150x125.jpg) ![p9](images/9-icones150x125.jpg) | Aberto |  |
 | 26/01/2020 | Cards da colônia de férias  | Aguardando as imagens dos bichos | Aberto |  |
 | 26/01/2020 | Cards do Aluguel de espaço  | Aguardando as imagens dos bichos | Aberto |  |
-| 26/01/2020 | Cards da flik feira literária  | Aguardando as imagens dos bichos | Aberto |  |
-| 26/01/2020 | Cards pra Imenjá  | Aguardando as imagens dos bichos | Aberto |  |
+| 26/01/2020 | Cards da flik - feira literária  | Aguardando as imagens dos bichos | Aberto |  |
+| 26/01/2020 | Cards pra Imenjá  | Aguardando foto e texto | ok | 30/01/2020 |
 | 28/01/2020 | acesso ao wordpress-admin | encaminhado por Harmonia e Mônica | ok | 28/01/2010 |
-| 28/01/2020 | acesso ao servido | encaminhado por Harmonia e Mônica. Tiago tem que configurar | aberto |  |  |
+| 28/01/2020 | acesso ao servido | encaminhado por Harmonia e Mônica. Tiago tem que configurar | aberto |  |
 | 28/01/2020 | Cards de boas-vindas: [card-insta](images/card-boas-vindas-insta.jpg) | aguardando fotos e modelo | ok | 29/01/2020 |
+| 29/01/2020 | Cards de aniversário | Aguardando as imagens dos bichos, nuven e logo-marca da kurumi: [modelo](images/aniversario-marina.jpg) | Aberto |  |
 
 ## Código fonte - Downloads
 
