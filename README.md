@@ -24,3 +24,11 @@
 [Modelo do calendário](images/modelo-calendario.xcf)
 
 [Modelo do ícones](images/modelo-icones.xcf)
+
+[Modelo do ícones](images/modelo-aniversario.xcf)
+
+[Modelo do ícones](images/modelo-cont-regr-Instagram.xcf)
+
+[Modelo do ícones](images/modelo-iemanja.xcf)
+
+[Modelo do ícones](images/modelo-postInstagram.xcf)
