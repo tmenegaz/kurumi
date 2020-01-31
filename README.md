@@ -25,10 +25,10 @@
 
 [Modelo do ícones](images/modelo-icones.xcf)
 
-[Modelo do ícones](images/modelo-aniversario.xcf)
+[Modelo do aniversário](images/modelo-aniversario.xcf)
 
-[Modelo do ícones](images/modelo-cont-regr-Instagram.xcf)
+[Modelo do cont-regr-Instagram](images/modelo-cont-regr-Instagram.xcf)
 
-[Modelo do ícones](images/modelo-iemanja.xcf)
+[Modelo do iemanja](images/modelo-iemanja.xcf)
 
-[Modelo do ícones](images/modelo-postInstagram.xcf)
+[Modelo do postInstagram](images/modelo-postInstagram.xcf)
